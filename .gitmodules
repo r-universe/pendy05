@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "vDiveR"]
 	path = vDiveR
-	url = https://github.com/cran/vDiveR
+	url = https://github.com/pendy05/vdiver
 	shallow = true
 	registered = true
