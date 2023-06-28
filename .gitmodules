@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "vDiveR"]
 	path = vDiveR
 	url = https://github.com/pendy05/vdiver
-	shallow = true
-	registered = true
